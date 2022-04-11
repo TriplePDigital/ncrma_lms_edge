@@ -1,0 +1,7 @@
+{
+    "app_id": "ncrma_lms_edge-hfcpq",
+    "config_version": 20210101,
+    "name": "ncrma_lms_edge",
+    "location": "US-VA",
+    "deployment_model": "LOCAL"
+}
