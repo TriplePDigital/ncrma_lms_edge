@@ -10,9 +10,9 @@
         "disabled": false
     },
     {
-        "route": "/users",
+        "route": "/getUser",
         "http_method": "GET",
-        "function_name": "getUsers",
+        "function_name": "getUser",
         "validation_method": "NO_VALIDATION",
         "respond_result": true,
         "fetch_custom_user_data": false,
